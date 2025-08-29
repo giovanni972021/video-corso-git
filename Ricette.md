@@ -10,6 +10,10 @@ testo aggiunto ore 14 e 02
 
 testo aggiunto ore 14 08
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 6860953 (modifiche fatte su git hub . com)
 
 >>>>>>> parent of 6860953 (modifiche fatte su git hub . com)
 
